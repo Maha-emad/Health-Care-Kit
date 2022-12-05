@@ -43,6 +43,6 @@ wiring instruction:
 -	Temperature Sensor (LM35) pin VCC – Arduino pin VCC (5v) 
 -	Temperature Sensor (LM35) pin Vout – Arduino pin A0 
 -	Temperature Sensor (LM35) pin GND– Arduino pin GND  
-
+![Screenshot (150)](https://user-images.githubusercontent.com/71048834/205670807-a2f489a9-bb53-4c6b-9693-d0512784558d.png)
 
 
