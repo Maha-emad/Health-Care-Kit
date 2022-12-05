@@ -1,5 +1,5 @@
 # Health-Care-Kit 
-we have designed a special wireless-controlled device that helps healthy or people with chronic diseases as it helps in measuring temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we try to make their measurement as simple and easy as possible in order to help you to keep your satisfaction about your health.
+We have designed a special wireless-controlled device that helps people with chronic diseases as  measures body temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we try to make their measurement as simple and easy as possible in order to help you to keep your satisfaction about your health.
 
 Used plateform : arduino IDE  
 
