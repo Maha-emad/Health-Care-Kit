@@ -13,6 +13,9 @@ Used components :
 5-Pulse Oximeter Sensor                                      
 6-3 Resistances (4.7 k ohm)  
 
+![Screenshot (152)](https://user-images.githubusercontent.com/71048834/205670335-0bbf0481-4fc0-4df3-b2a5-a199cddb6617.png)
+
+
 wiring instruction:
 -	LCD monitor pin Vss – Arduino pin GND 
 -	LCD monitor pin VDD – Arduino pin VCC (5v)
