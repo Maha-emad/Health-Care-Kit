@@ -1,5 +1,5 @@
 # Health-Care-Kit 
-We have designed a special wireless-controlled device that helps people with chronic diseases as  measures body temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we try to make their measurement as simple and easy as possible in order to help you be more aware about your health. 
+We have designed a special wireless-controlled device that helps people with chronic diseases as  measures body temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we try to make their measurement as simple and easy as possible in order to help you be more aware of your health. 
 
 The reading are appeared either on the LCD fixed on the divice or on a mobile application to make it be more readable and to be able to store them for further analysis .
 
