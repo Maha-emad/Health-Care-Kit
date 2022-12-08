@@ -1,11 +1,14 @@
 # Health-Care-Kit 
-We have designed a special wireless-controlled device that helps people with chronic diseases as  measures body temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we try to make their measurement as simple and easy as possible in order to help you be more aware of your health. 
+We have designed a special wireless-controlled device that helps people with chronic diseases as  it measures body temperature, pulse rate and oxygen percentage which considered as the common risk factors for any disease, so we tried to make their measurement as simple and easy as possible in order to help you be more aware of your health. 
 
-The reading are appeared either on the LCD fixed on the divice or on a mobile application to make it be more readable and to be able to store them for further analysis .
+The reading  appeares either on the LCD fixed on the divice or on a mobile application to make it be more readable and to be able to store them for further analysis .
 
-Used plateform : arduino IDE  
+- Used plateform : arduino IDE  
 
-Used components : 
+
+ Used components 
+ -
+
 1-Bluetooth Module (HC-05)                                   .
 2- Monitor (16*2)                    
 3-Temperature Sensor (LM35)                                    
@@ -16,7 +19,8 @@ Used components :
 ![Screenshot (152)](https://user-images.githubusercontent.com/71048834/205670335-0bbf0481-4fc0-4df3-b2a5-a199cddb6617.png)
 
 
-wiring instruction:
+wiring instruction
+-
 -	LCD monitor pin Vss – Arduino pin GND 
 -	LCD monitor pin VDD – Arduino pin VCC (5v)
 -	LCD monitor pin VO – Potentiometer pin 2
@@ -45,4 +49,7 @@ wiring instruction:
 -	Temperature Sensor (LM35) pin GND– Arduino pin GND  
 ![Screenshot (150)](https://user-images.githubusercontent.com/71048834/205670807-a2f489a9-bb53-4c6b-9693-d0512784558d.png)
 
+
+## Simulation 
+[Health-Care-Kit](https://drive.google.com/file/d/1f-zaADIC26tKbqsNuMqtlC5n38gz-flR/view)
 
